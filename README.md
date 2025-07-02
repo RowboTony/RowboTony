@@ -12,4 +12,7 @@
 - Real security and future-proofing (e.g., quantum computing resilience) are design essentials, not afterthoughts.
 - Collaboration through open-source is how we build sustainable, durable solutions.
 
-If you're building open, accessible infrastructure that still matters a decade from now - I'll test it, document it, and chase the edge cases. Let's build together.
+For those curious about how I approach QA:  
+[Read my QA Philosophy](./QA_PHILOSOPHY.md)
+
+If you're building open, accessible infrastructure that still matters a decade from now - I'll test it, document it, and chase the edge cases. Let's build with integrity.
