@@ -2,7 +2,7 @@
 
 ## Why I care
 
-I do QA because I care about the user - the real human being on the other side of the screen. The one trying to recover their vault at 2AM. The one onboarding with doubt in their gut. The one who’s placing trust in this software to hold their money, identity, or future.
+I do QA because I care about the user - the real human being on the other side of the screen. The one trying to recover their crypto at 2AM. The one onboarding with doubt in their gut. The one who’s placing trust in this software to hold their money, identity, or future.
 
 If we lose their trust, we lose everything.
 
